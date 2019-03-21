@@ -1,6 +1,6 @@
-Content of Ares and Cefas Python Course 2019 (website tba) 
+Content of Ares and Cefas Python Course 2019 [website](<https://ueapy.github.io/pythoncourse2019>)
 
-[![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)]()
+[![Python 3.7](https://img.shields.io/badge/python-3.7-blue.svg)]()
 [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/ueapy/pythoncourse2019-materials)
 
 ## License
